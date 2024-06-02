@@ -6,17 +6,17 @@
 
 @font-face {
     font-family: pulserifle;
-    src: url(../font/pulserifle.ttf);
+    src: url(./font/pulserifle.ttf);
 }
 
 @font-face {
     font-family: segoeuivariable;
-    src: url(../font/segoeuivariable.ttf);
+    src: url(./font/segoeuivariable.ttf);
 }
 
 @font-face {
     font-family: bungeeinline;
-    src: url(../font/bungeeinline.ttf);
+    src: url(./font/bungeeinline.ttf);
 }
 
 * {
